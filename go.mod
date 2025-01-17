@@ -2,7 +2,7 @@ module github.com/niktheblak/passwordhash
 
 go 1.22
 
-toolchain go1.22.2
+toolchain go1.23.5
 
 require (
 	github.com/spf13/cobra v1.8.0
